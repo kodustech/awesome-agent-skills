@@ -117,6 +117,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [changelog-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/automation/mattyp-changelog/skills/changelog-orchestrator) | Draft changelog PRs by collecting GitHub/Slack/Git changes, formatting with templates, running quality gates, and preparing a branch/PR. Use when generating weekly/monthly release notes or when the user asks to create a changelog from recent merges. Trigger with "changelog weekly", "generate release notes", "draft changelog", "create changelog PR". |
 | [tdd-workflow](https://github.com/cfrs2005/claude-init/tree/main/templates/.claude/skills/tdd-workflow) | Use this skill when writing new features, fixing bugs, or refactoring code. Enforce test-driven development (TDD), including unit tests, integration tests, and end-to-end (E2E) tests, ensuring test coverage exceeds 80%. |
 | [oping](https://github.com/bfly123/claude_code_bridge/tree/main/codex_skills/oping) | Test connectivity with OpenCode (shorthand: oc) using the oping CLI. Use when the user explicitly asks to check OpenCode/oc status or connectivity (e.g., “oc ping”, “oc is it alive?”, “is OpenCode connected?”), or when troubleshooting cases where OpenCode is not responding. |
+| [joedevflow](https://github.com/JoeCardoso13/joedevflow) | TDD-oriented workflow skill for coding agents with explicit design, red-test, implementation, and debug phases plus `HANDOFF.md` context handoffs. |
 
 ---
 
