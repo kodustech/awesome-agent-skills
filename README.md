@@ -272,6 +272,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [git-advanced-workflows](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows) | Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues. |
 | [unslop](https://github.com/MohamedAbdallah-14/unslop) | Claude Code plugin and CLI that removes sycophantic openers, stock vocabulary, hedging stacks, and em-dash overuse from AI-generated output. Engineers sentence burstiness. Code, URLs, and technical terms pass through unchanged. Pipe mode for scripting. Use before publishing any AI-generated content. |
 | [toprank](https://github.com/nowork-studio/toprank) | Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, and can ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes. |
+| [swarmclaw](https://github.com/swarmclawai/swarmclaw/tree/main/skills/swarmclaw) | Operate SwarmClaw's self-hosted multi-agent runtime, skills, delegation, provider routing, schedules, and MCP workflows. |
+| [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
 
 ---
 
