@@ -224,6 +224,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding-agent sessions for cost, tokens, tool failures, latency, anomalies, health scores, diffs, and CI gate readiness across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, and similar tools. |
 | [risk-metrics-calculation](https://github.com/wshobson/agents/tree/main/plugins/quantitative-trading/skills/risk-metrics-calculation) | Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems. |
 | [domain-cloud-native](https://github.com/rustfs/rustfs/tree/main/.claude/skills/domain-cloud-native) | Use when building cloud-native applications. Keywords: Kubernetes, k8s, Docker, containers, gRPC, Tonic, microservices, service mesh, observability, tracing, metrics, health checks, cloud, deployment, cloud-native, microservices, containers. |
 | [appinsights-instrumentation](https://github.com/github/awesome-copilot/tree/main/skills/appinsights-instrumentation) | Instrument a webapp to send useful telemetry data to Azure App Insights |
