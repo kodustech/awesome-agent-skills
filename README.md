@@ -74,6 +74,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [bilig-workpaper](https://github.com/proompteng/bilig/tree/main/skills/bilig-workpaper) | Formula-backed WorkPaper skill for agents to edit cells, recalculate, verify readback, and persist JSON workbook logic without an Excel UI. |
 | [bun-file-io](https://github.com/anomalyco/opencode/tree/dev/.opencode/skill/bun-file-io) | Use this when you are working on file operations like reading, writing, scanning, or deleting files. It summarizes the preferred file APIs and patterns used in this repo. It also notes when to use filesystem helpers for directories. |
 | [add-admin-api-endpoint](https://github.com/TryGhost/Ghost/tree/main/.claude/skills/add-admin-api-endpoint) | Add a new endpoint or endpoints to Ghost's Admin API at `ghost/api/admin/**`. |
 | [generate-migration](https://github.com/getsentry/sentry/tree/master/.claude/skills/generate-migration) | Generate Django database migrations for Sentry. Use when creating migrations, adding/removing columns or tables, adding indexes, or resolving migration conflicts. |
