@@ -128,6 +128,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [bounty-sieve](https://github.com/junbuilds96/bounty-sieve/tree/main/skills/bounty-sieve) | Read-only bounty intake guardrail for coding agents with URL import, deterministic triage, and human approval gates. |
 | [deployment-pipeline-design](https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/deployment-pipeline-design) | Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up continuous delivery, or implementing GitOps practices. |
 | [wordpress-penetration-testing](https://github.com/zebbern/claude-code-guide/tree/main/skills/wordpress-penetration-testing) | This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugins", "exploit WordPress vulnerabilities", or "use WPScan". It provides comprehensive WordPress security assessment methodologies. |
 | [pentest-checklist](https://github.com/zebbern/claude-code-guide/tree/main/skills/pentest-checklist) | This skill should be used when the user asks to "plan a penetration test", "create a security assessment checklist", "prepare for penetration testing", "define pentest scope", "follow security testing best practices", or needs a structured methodology for penetration testing engagements. |
