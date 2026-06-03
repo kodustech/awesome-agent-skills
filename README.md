@@ -406,6 +406,10 @@ Detailed description of the skill’s purpose.
 ```
 
 -----
+
+* [BuilderStudio Skills](https://github.com/wundercorp/builderstudio-skills) - WunderCorp's public BuilderStudio skillset catalog with reusable agent skills for repeatable AI development workflows that pair with Pathways, MCP integrations, Hermes-powered contained execution, and Agentic Swarms.
+
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
