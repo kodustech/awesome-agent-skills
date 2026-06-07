@@ -268,6 +268,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | Skill | Description |
 |-----------|-----------|
 | [before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | Review product and feature risk before agents start building. |
+| [meta-skill](https://github.com/joohw/meta-skill) | Evaluate, differentiate, and design Agent Skills with a concise design brief, competitive scan, and distinctive skill identity. |
 | [chatcrystal-debug-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-debug-recall) | Recall prior ChatCrystal debugging memories for failing tests, compiler errors, runtime exceptions, dependency issues, and regressions before proposing fixes. |
 | [chatcrystal-task-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-task-recall) | Recall project-first and global-supplement ChatCrystal memories before substantive implementation, refactoring, migration, configuration, investigation, or optimization work. |
 | [chatcrystal-task-writeback](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-task-writeback) | Persist reusable task memories through ChatCrystal Core writeback, or emit structured memory candidates when Core is unavailable. |
