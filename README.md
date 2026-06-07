@@ -286,6 +286,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [toprank](https://github.com/nowork-studio/toprank) | Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, and can ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes. |
 | [swarmclaw](https://github.com/swarmclawai/swarmclaw/tree/main/skills/swarmclaw) | Operate SwarmClaw's self-hosted multi-agent runtime, skills, delegation, provider routing, schedules, and MCP workflows. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
+| [keelson](https://github.com/innovestrum/keelson) | Tracker-agnostic, issue-driven operating model for AI coding agents. `adopt-keelson` writes an AGENTS.md plus a lifecycle skill-pack and `tune-gates` sets up quality gates; agents run mechanical work autonomously but escalate any move touching the original design, plan, or strategy to a human. Works with GitHub, GitLab, Jira, Linear, or any API/CLI/MCP. |
 
 ---
 
