@@ -158,7 +158,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [single-cell-cellphonedb-communication-mapping](https://github.com/Starlitnightly/omicverse/tree/master/.claude/skills/single-cellphone-db) | Run omicverse's CellPhoneDB v5 wrapper on annotated single-cell data to infer ligand-receptor networks and produce CellChat-style visualisations. |
 | [effect-patterns-platform-getting-started](https://github.com/PaulJPhilp/EffectPatterns/tree/main/config/.claude-plugin/plugins/effect-patterns/skills/effect-patterns-platform-getting-started) | Effect-TS patterns for Platform Getting Started. Use when working with platform getting started in Effect-TS applications. |
 | [android-kotlin](https://github.com/alinaqi/claude-bootstrap/tree/main/skills/android-kotlin) | Android Kotlin development with Coroutines, Jetpack Compose, Hilt, and MockK testing |
-| [sleek-design-mobile-apps](https://github.com/sleekdotdesign/agent-skills/tree/main) | Design mobile apps with [sleek.design](https://sleek.design) via a REST API. Use when the user wants to design a mobile app, create screens, build UI, or interact with their Sleek projects. Covers high-level requests ("design an app that does X") and specific ones ("list my projects", "create a new project", "screenshot that screen"). |
+| [sleek-design-mobile-apps](https://github.com/sleekdotdesign/agent-skills/tree/main/skills/design-mobile-apps) | Design mobile apps with [sleek.design](https://sleek.design) via a REST API. Use when the user wants to design a mobile app, create screens, build UI, or interact with their Sleek projects. Covers high-level requests ("design an app that does X") and specific ones ("list my projects", "create a new project", "screenshot that screen"). |
 
 ---
 
