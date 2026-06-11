@@ -122,6 +122,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [tdd-workflow](https://github.com/cfrs2005/claude-init/tree/main/templates/.claude/skills/tdd-workflow) | Use this skill when writing new features, fixing bugs, or refactoring code. Enforce test-driven development (TDD), including unit tests, integration tests, and end-to-end (E2E) tests, ensuring test coverage exceeds 80%. |
 | [oping](https://github.com/bfly123/claude_code_bridge/tree/main/codex_skills/oping) | Test connectivity with OpenCode (shorthand: oc) using the oping CLI. Use when the user explicitly asks to check OpenCode/oc status or connectivity (e.g., “oc ping”, “oc is it alive?”, “is OpenCode connected?”), or when troubleshooting cases where OpenCode is not responding. |
 | [joedevflow](https://github.com/JoeCardoso13/joedevflow) | TDD-oriented workflow skill for coding agents with explicit design, red-test, implementation, and debug phases plus `HANDOFF.md` context handoffs. |
+| [ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop/tree/main/skills/ariadne-loop) | Verifiable loop-spec workflow for AI coding agents, with explicit gates, JSON reports, and handoff packets for Codex, Claude Code, and OpenClaw. |
 | [checkyourself](https://github.com/KyaniteLabs/checkyourself/tree/main/skills/checkyourself) | Production-readiness diagnostics and guided remediation for AI-built apps. |
 
 ---
