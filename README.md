@@ -286,6 +286,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [toprank](https://github.com/nowork-studio/toprank) | Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API, and can ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes. |
 | [swarmclaw](https://github.com/swarmclawai/swarmclaw/tree/main/skills/swarmclaw) | Operate SwarmClaw's self-hosted multi-agent runtime, skills, delegation, provider routing, schedules, and MCP workflows. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
+| [agent-skill-groups](https://github.com/go165/agent-skill-groups/tree/main/skills/agent-skill-groups) | Manage large local Agent Skills libraries with runtime-aware scenario groups for Codex, Claude Code, OpenCode, and GitHub Copilot. |
 
 ---
 
