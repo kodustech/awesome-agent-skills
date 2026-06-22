@@ -264,6 +264,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 ---
 
 ### Tooling
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
 
 | Skill | Description |
 |-----------|-----------|
