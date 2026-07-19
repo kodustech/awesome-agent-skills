@@ -68,6 +68,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Operate Sequenzy email marketing and transactional/product email workflows from AI agents, including subscribers, campaigns, sequences, templates, sending, and usage checks. |
 | [istio-traffic-management](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management) | Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns. |
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
+| [markstream-install](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install) | Install and configure streaming Markdown renderers for Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2, including optional peers, CSS order, SSR boundaries, and streaming state. |
 
 ---
 
