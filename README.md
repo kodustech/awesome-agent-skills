@@ -296,6 +296,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 ---
 
+| [snaptool-skills](https://github.com/RexHuang/snaptool-skills) | 49 developer tools (JSON/CSS/HTML/SQL/XML formatting, Base64/URL encoding, SHA hashing, UUID/password generation, case conversion, CSV↔JSON, color/unit/timestamp conversion, regex testing, JWT decode) via single REST API. Free tier. Works with Claude Code, Codex, Cursor. |
+
 ### Code Review
 
 | Skill | Description |
