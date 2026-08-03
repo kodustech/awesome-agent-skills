@@ -271,6 +271,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [apply-technical-concepts](https://github.com/velimir-jankovic/apply-technical-concepts/tree/main/skills/apply-technical-concepts) | Turn a technical video into a repository audit or tested implementation. Keeps transcript and frame evidence tied to exact code paths and runtime results. |
 | [before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | Review product and feature risk before agents start building. |
 | [chatcrystal-debug-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-debug-recall) | Recall prior ChatCrystal debugging memories for failing tests, compiler errors, runtime exceptions, dependency issues, and regressions before proposing fixes. |
 | [chatcrystal-task-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-task-recall) | Recall project-first and global-supplement ChatCrystal memories before substantive implementation, refactoring, migration, configuration, investigation, or optimization work. |
