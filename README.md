@@ -272,6 +272,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | Skill | Description |
 |-----------|-----------|
 | [before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | Review product and feature risk before agents start building. |
+| [handover-resume](https://github.com/44-pixels/handover-mcp/tree/main/skills/handover-resume) | Find, inspect, and continue existing Handover context through MCP or the Handover CLI. Use when picking up another agent's work, switching models without losing state, retrieving report files, or appending the next attributable revision. |
 | [chatcrystal-debug-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-debug-recall) | Recall prior ChatCrystal debugging memories for failing tests, compiler errors, runtime exceptions, dependency issues, and regressions before proposing fixes. |
 | [chatcrystal-task-recall](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-task-recall) | Recall project-first and global-supplement ChatCrystal memories before substantive implementation, refactoring, migration, configuration, investigation, or optimization work. |
 | [chatcrystal-task-writeback](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills/chatcrystal-task-writeback) | Persist reusable task memories through ChatCrystal Core writeback, or emit structured memory candidates when Core is unavailable. |
