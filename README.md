@@ -68,6 +68,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Operate Sequenzy email marketing and transactional/product email workflows from AI agents, including subscribers, campaigns, sequences, templates, sending, and usage checks. |
 | [istio-traffic-management](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management) | Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns. |
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
+| [web-design-orchestrator](https://github.com/Lrinvl1203/world-class-web-design-os/tree/main/.codex/skills/web-design-orchestrator) | Routes coding agents through design discovery, art direction, implementation, independent critique, accessibility, and rendered browser QA. |
 
 ---
 
