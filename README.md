@@ -293,6 +293,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [swarmclaw](https://github.com/swarmclawai/swarmclaw/tree/main/skills/swarmclaw) | Operate SwarmClaw's self-hosted multi-agent runtime, skills, delegation, provider routing, schedules, and MCP workflows. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
+| [meanwhile](https://github.com/vaddisrinivas/meanwhile/tree/main/meanwhile) | Offers one optional, bounded focus, recovery, learning, play, or reality-check quest while substantial agent work continues. Uses session history and recent misses, with hard restraint and decline rules. |
 
 ---
 
