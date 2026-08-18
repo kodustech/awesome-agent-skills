@@ -297,6 +297,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Get YouTube transcripts, search videos and channels, list channel uploads, and extract playlists without Google API quotas or OAuth, usable in Claude, ChatGPT, OpenClaw, Hermes Agent and other MCP clients or from your own software via the TranscriptAPI REST API. MIT. |
+| [x402-tools]([https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault](https://github.com/underscoredone/x402-tools-skill/)) | X402 Tools for checking http 402 headers and openapi.json specs. |
 
 ---
 
