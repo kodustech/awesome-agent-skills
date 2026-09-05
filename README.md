@@ -281,6 +281,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [reconnect](https://github.com/AntreasAntoniou/reconnect) | Discover relevant professional peers and communities, preserve identity and relevance evidence, and track explicitly authorised connections with an offline deduplicating ledger. Research and browser capabilities come from the host agent. |
 | [threadseer](https://github.com/AntreasAntoniou/threadseer-agent-skill) | Turn conversations into source-grounded decisions, actions, and institutional-memory proposals using line-preserving segmentation, evidence labels, temporal reconciliation, and output validation. |
 | [doppel-gang](https://github.com/AntreasAntoniou/doppel-gang) | Review author-written drafts through contrasting synthetic lenses, preserve substantive disagreement, and return editorial choices to the author; no human impersonation or automatic submission. |
 | [nexus](https://github.com/AntreasAntoniou/nexus) | Map repository paths and top-level Python symbols without executing source, then trace task-relevant implementation, contracts, and tests into a revision-aware context pack. |
