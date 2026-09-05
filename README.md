@@ -197,6 +197,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [ml-research-skeptical-audit](https://github.com/AntreasAntoniou/ml-research-skeptical-audit) | Trace ML data, model, loss, and evaluation code to challenge leakage, incompatible objectives, and unfair baselines; propose controlled falsification checks without claiming reproduced results. |
+| [ml-run-provenance](https://github.com/AntreasAntoniou/ml-run-provenance) | Define birth-time ML run metadata, resume lineage, and evidence-backed backfills; validate local JSON while distinguishing schema consistency from tracker persistence and reproducibility. |
 | [fact-check-x-complete](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | Run evidence-gated fact checks across one or more AI platforms: preserve raw answers and citations, compare atomic claims, verify them with authoritative sources, and generate standalone HTML reports. |
 | [git-advanced-workflows](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows) | Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues. |
 | [pr-build-status](https://github.com/dotnet/maui/tree/main/.github/skills/pr-build-status) | Retrieve Azure DevOps build information for GitHub Pull Requests, including build IDs, stage status, and failed jobs. |
@@ -240,6 +242,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [back-to-the-chronicle](https://github.com/AntreasAntoniou/back-to-the-chronicle) | Reconstruct project history from Git, approved session JSONLs, and artifacts using witnessed, measured, and inferred evidence classes; prepare manifests before approved append-only Chronicle integration. |
+| [butler](https://github.com/AntreasAntoniou/butler-agent-skill) | Track local project usage estimates and GPU budgets, preview admission, atomically reserve capacity, and reconcile actual usage; advisory accounting, not provider-enforced spending control. |
 | [chronicle](https://github.com/AntreasAntoniou/chronicle) | Preserve project decisions, observed work, and captured file versions for historical context, agent handoffs, and recovery of captured files. |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding-agent sessions for cost, tokens, tool failures, latency, anomalies, health scores, diffs, and CI gate readiness across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, and similar tools. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | Reconstruct the skill sequence, decisions, and handoffs behind a shipped feature from local ax session history. |
@@ -277,6 +281,11 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [threadseer](https://github.com/AntreasAntoniou/threadseer-agent-skill) | Turn conversations into source-grounded decisions, actions, and institutional-memory proposals using line-preserving segmentation, evidence labels, temporal reconciliation, and output validation. |
+| [doppel-gang](https://github.com/AntreasAntoniou/doppel-gang) | Review author-written drafts through contrasting synthetic lenses, preserve substantive disagreement, and return editorial choices to the author; no human impersonation or automatic submission. |
+| [nexus](https://github.com/AntreasAntoniou/nexus) | Map repository paths and top-level Python symbols without executing source, then trace task-relevant implementation, contracts, and tests into a revision-aware context pack. |
+| [propagate](https://github.com/AntreasAntoniou/propagate) | Propose one canonical home, evidenced consumers, and a runtime home only when needed for reusable work; apply and verify only exact approved targets and operations. |
+| [questlog](https://github.com/AntreasAntoniou/questlog-agent-skill) | Maintain a Markdown commitments ledger and local cockpit for focus, next actions, deadlines, and waiting items with locked writes and revision-conflict checks; saved instructions are drafts, not executions. |
 | [agent-orchestra](https://github.com/AntreasAntoniou/agent-orchestra) | Design multi-agent information flow with independent work, explicit arbitration, adversarial review, and scoped implementation ownership. Requires a host that supplies agents. |
 | [agent-collaboration-control](https://github.com/AntreasAntoniou/agent-collaboration-control) | Define human authority, mutable-surface ownership, evidence states, and handoff rules for consequential agent work; a coordination protocol, not access-control enforcement. |
 | [archivum](https://github.com/AntreasAntoniou/archivum/tree/main/skills/archivum) | Maintain Git-backed knowledge and project workspaces through source-backed capture, structured records, retrieval, and durable write-back. |
