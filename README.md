@@ -297,6 +297,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Build local-first knowledge vaults, graph-backed context packs, durable research outputs, and MCP-accessible project memory. |
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Get YouTube transcripts, search videos and channels, list channel uploads, and extract playlists without Google API quotas or OAuth, usable in Claude, ChatGPT, OpenClaw, Hermes Agent and other MCP clients or from your own software via the TranscriptAPI REST API. MIT. |
+| [ctx-optimize](https://github.com/muthuishere/ctx-optimize/tree/main/internal/skills/bundled/ctx-optimize) | Query a deterministic code knowledge graph instead of running a grep-and-read chain. A static Go binary indexes the repo, and optionally its databases, buckets, queues and APIs, into a local store; the skill then answers who calls a symbol, what breaks if it changes, and which tests to run. No LLM, no embeddings, no MCP, no credentials at rest. MIT. |
 
 ---
 
