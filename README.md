@@ -123,6 +123,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [oping](https://github.com/bfly123/claude_code_bridge/tree/main/codex_skills/oping) | Test connectivity with OpenCode (shorthand: oc) using the oping CLI. Use when the user explicitly asks to check OpenCode/oc status or connectivity (e.g., “oc ping”, “oc is it alive?”, “is OpenCode connected?”), or when troubleshooting cases where OpenCode is not responding. |
 | [joedevflow](https://github.com/JoeCardoso13/joedevflow) | TDD-oriented workflow skill for coding agents with explicit design, red-test, implementation, and debug phases plus `HANDOFF.md` context handoffs. |
 | [checkyourself](https://github.com/KyaniteLabs/checkyourself/tree/main/skills/checkyourself) | Production-readiness diagnostics and guided remediation for AI-built apps. |
+| [audit-website](https://github.com/squirrelscan/squirrelscan/tree/main/skills/audit-website) | Audit a website with the squirrelscan CLI and fix the findings in code. Runs 260+ rules across SEO, performance, security, accessibility and agent experience, returns an LLM-optimized report, then drives a fix loop that maps each issue to source files, applies fixes, and re-audits until the site scores well. MIT. |
 
 ---
 
