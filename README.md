@@ -319,6 +319,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [octocode-pr-review](https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-pr-review) | PR review for bugs, security & quality (requires PR URL) |
 | [fix-pr](https://github.com/agentfront/frontmcp/tree/main/.claude/skills/fix-pr) | Review a CodeRabbit PR comment and produce an action plan when prompted to analyze a review comment. |
 | [code-quality-analysis-with-pmat](https://github.com/paiml/paiml-mcp-agent-toolkit/tree/master/.claude/skills/pmat-quality) | Analyzes code quality, complexity, and technical debt using PMAT (Pragmatic AI Labs MCP Agent Toolkit). Use this skill when: - User mentions "code quality", "complexity", "technical debt", or "maintainability" - Reviewing code or conducting code review - Modifying or refactoring existing code files - Creating pull requests or preparing commits - Investigating performance or quality issues Supports 25+ languages including Rust, Python, TypeScript, JavaScript, Go, C++, Java, Ruby, PHP, Swift, and more. Provides cyclomatic complexity, cognitive complexity, maintainability index, dead code detection, and technical debt annotations (SATD: TODO, FIXME, HACK comments). |
+| [patchy-mcpatchface](https://github.com/Shivansh-Gaur2/patchy-mcpatchface/tree/master/skills/patchy) | Evidence-driven workflow for scope, reuse, and proof in non-trivial code changes. |
 
 
 
