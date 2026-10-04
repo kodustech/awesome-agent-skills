@@ -125,6 +125,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [oping](https://github.com/bfly123/claude_code_bridge/tree/main/codex_skills/oping) | Test connectivity with OpenCode (shorthand: oc) using the oping CLI. Use when the user explicitly asks to check OpenCode/oc status or connectivity (e.g., “oc ping”, “oc is it alive?”, “is OpenCode connected?”), or when troubleshooting cases where OpenCode is not responding. |
 | [joedevflow](https://github.com/JoeCardoso13/joedevflow) | TDD-oriented workflow skill for coding agents with explicit design, red-test, implementation, and debug phases plus `HANDOFF.md` context handoffs. |
 | [checkyourself](https://github.com/KyaniteLabs/checkyourself/tree/main/skills/checkyourself) | Production-readiness diagnostics and guided remediation for AI-built apps. |
+| [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Frontend design skill with a gate that opens the built page in a real browser (Playwright) and scores it with its own detector, so a UI change is judged on what the visitor sees instead of on the markup. Checks hierarchy, spacing, contrast, overlap and responsive behaviour. Claude Code and Codex, MIT. |
 
 ---
 
@@ -322,6 +323,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [octocode-pr-review](https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-pr-review) | PR review for bugs, security & quality (requires PR URL) |
 | [fix-pr](https://github.com/agentfront/frontmcp/tree/main/.claude/skills/fix-pr) | Review a CodeRabbit PR comment and produce an action plan when prompted to analyze a review comment. |
 | [code-quality-analysis-with-pmat](https://github.com/paiml/paiml-mcp-agent-toolkit/tree/master/.claude/skills/pmat-quality) | Analyzes code quality, complexity, and technical debt using PMAT (Pragmatic AI Labs MCP Agent Toolkit). Use this skill when: - User mentions "code quality", "complexity", "technical debt", or "maintainability" - Reviewing code or conducting code review - Modifying or refactoring existing code files - Creating pull requests or preparing commits - Investigating performance or quality issues Supports 25+ languages including Rust, Python, TypeScript, JavaScript, Go, C++, Java, Ruby, PHP, Swift, and more. Provides cyclomatic complexity, cognitive complexity, maintainability index, dead code detection, and technical debt annotations (SATD: TODO, FIXME, HACK comments). |
+| [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Finds what a change breaks outside its own diff, then proves the one fact that makes it safe by running real code instead of writing it up. Use before a multi-file or shared-path edit, for "what could this break", or when a brief asserts something about existing code before you design against that assertion. Claude Code and Codex, MIT. |
 
 
 
