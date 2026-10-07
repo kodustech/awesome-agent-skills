@@ -70,6 +70,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Build or redesign a web or mobile interface on a Better Design design system. Use when the user asks for an app, site, page, dashboard or component and wants it built on Better Design, or asks to choose, create or install a design system. |
 | [review-ui-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/review-ui-with-better-design) | Review an interface with Better Design's checks for accessibility, visual design, copy clarity and spacing. Use when the user asks to review, audit or check a screen, or after building one with Better Design. |
+| [bestax-layout-scaffold](https://github.com/allxsmith/bestax/tree/main/skills/bestax-layout-scaffold) | Scaffold a responsive page with Bestax and Bulma v1: app shell, landing page, auth page or card grid. |
 
 ---
 
