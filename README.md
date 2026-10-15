@@ -300,6 +300,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Get YouTube transcripts, search videos and channels, list channel uploads, and extract playlists without Google API quotas or OAuth, usable in Claude, ChatGPT, OpenClaw, Hermes Agent and other MCP clients or from your own software via the TranscriptAPI REST API. MIT. |
 | [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API, no Google Cloud API key or yt-dlp needed. Also available as an MCP server (API key or OAuth 2.1). MIT. |
+| [crystallize](https://github.com/2016judea/harvest-harness/tree/main/free/skills/crystallize) | Turn a finished Claude Code session into a skill whose rules carry their why, with a dated grounded line. |
 
 ---
 
