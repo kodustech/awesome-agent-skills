@@ -70,6 +70,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Build or redesign a web or mobile interface on a Better Design design system. Use when the user asks for an app, site, page, dashboard or component and wants it built on Better Design, or asks to choose, create or install a design system. |
 | [review-ui-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/review-ui-with-better-design) | Review an interface with Better Design's checks for accessibility, visual design, copy clarity and spacing. Use when the user asks to review, audit or check a screen, or after building one with Better Design. |
+| [deacon-install](https://github.com/heydeacon/skills/tree/main/skills/deacon-install) | Install the Deacon AI support widget on a website or web app, tell it who is signed in, and check a live page has loaded it. Use when asked to install Deacon or add its snippet. |
 
 ---
 
