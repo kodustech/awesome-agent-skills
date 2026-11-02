@@ -422,6 +422,7 @@ Detailed description of the skill’s purpose.
 -----
 
 * [BuilderStudio Skills](https://github.com/wundercorp/builderstudio-skills) - WunderCorp's public BuilderStudio skillset catalog with reusable agent skills for repeatable AI development workflows that pair with Pathways, MCP integrations, Hermes-powered contained execution, and Agentic Swarms.
+* [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) - Free MIT skill library with a deterministic intake router and 61 copy-paste SKILL.md specialists.
 
 
 ## Contributing
