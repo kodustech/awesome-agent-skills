@@ -168,6 +168,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [blockvectra-docs](https://github.com/blockvectra/agent-quickstart/tree/main/skills/blockvectra-docs) | Find and cite BlockVectra RPC and indexed-data documentation, including Robinhood Chain setup, through configured MCP tools or an HTTP reader. Documentation access requires no BlockVectra account or API key; the skill does not execute blockchain or account operations. |
 | [gh-issue-triage](https://github.com/poindexter12/waypoint/tree/main/workflows/skills/gh-issue-triage) | Label taxonomy and triage workflow for GitHub issues. Defines type labels (bug/feature/enhancement/docs/chore), priority levels (critical/high/medium/low), status labels, and triage decision workflow. Use when categorizing and prioritizing issues. |
 | [web-test-wallet-sign](https://github.com/automata-network/agent-skills/tree/main/web-test-wallet-sign) | Handle MetaMask signature and transaction popups during Web3 DApp testing - approve signatures, send transactions, call contracts. Detects popup type and handles gas errors. |
 | [web-test-wallet-setup](https://github.com/automata-network/agent-skills/tree/main/web-test-wallet-setup) | Set up MetaMask wallet extension for Web3 DApp testing - download extension, import wallet from private key. Run at test start if tests/config.yaml has web3.enabled=true. |
