@@ -220,6 +220,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 ### Data Science
 
 | Skill | Description |
+| [datacircle](https://datacircle.dev/SKILL.md) | Find the best GTM APIs. Download every plan on Datacircle as one file. Give your AI our skill file to query the file. |
 |-----------|-----------|
 | [docstring](https://github.com/pytorch/pytorch/tree/main/.claude/skills/docstring) | Write docstrings for PyTorch functions and methods following PyTorch conventions. Use when writing or updating docstrings in PyTorch code. |
 | [website-maintainer](https://github.com/yamadashy/repomix/tree/main/.claude/skills/website-maintainer) | Use this skill when working on the Repomix documentation website in `website/` directory, including VitePress configuration, multi-language content, or translation workflows. |
