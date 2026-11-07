@@ -194,6 +194,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 ### AI/ML
 
 | Skill | Description |
+| [imagera-media](https://github.com/alexadams6ix/imagera-skills/tree/main/skills/imagera-media) | Create or edit images, video clips, voiceovers and music through the Imagera MCP server and save them into the project. Use when the user asks for a hero image, product shot, thumbnail, short video, voiceover or background music. |
 |-----------|-----------|
 | [fact-check-x-complete](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | Run evidence-gated fact checks across one or more AI platforms: preserve raw answers and citations, compare atomic claims, verify them with authoritative sources, and generate standalone HTML reports. |
 | [git-advanced-workflows](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows) | Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues. |
