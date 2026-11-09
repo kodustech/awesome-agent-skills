@@ -300,7 +300,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Get YouTube transcripts, search videos and channels, list channel uploads, and extract playlists without Google API quotas or OAuth, usable in Claude, ChatGPT, OpenClaw, Hermes Agent and other MCP clients or from your own software via the TranscriptAPI REST API. MIT. |
 | [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API, no Google Cloud API key or yt-dlp needed. Also available as an MCP server (API key or OAuth 2.1). MIT. |
-| [find-quotes (Arcmira)](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes) | Search indexed YouTube transcripts for timestamped quotes and retrieve surrounding lines through [Arcmira](https://arcmira.com/)'s MCP or CLI with an Arcmira account. [API docs](https://arcmira.com/docs). |
+| [find-quotes (Arcmira)](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes) | Use [Arcmira](https://arcmira.com/) to find exact quotes on YouTube, podcasts included: the line, often who said it, the date, and a timestamped link with clip start and end. [API docs](https://arcmira.com/docs). |
 
 ---
 
