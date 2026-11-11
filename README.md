@@ -24,6 +24,7 @@ A curated list of agent skills for software engineering
   - [AI/ML](#aiml)
   - [Tooling](#tooling)
   - [Code Review](#code-review)
+  - [Career & Job Search](#career--job-search)
 - [FAQ: Agent Skills](#faq-agent-skills)
 - [Agent Skill Template](#agent-skill-template)
 
@@ -326,6 +327,14 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 
 -----
+
+### Career & Job Search
+
+| Skill | Description |
+|-----------|-----------|
+| [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) | Writes a job-tailored resume from confirmed facts only, then audits claims and previews interview follow-ups. Use when tailoring a resume to a job description or checking existing bullets for unsourced numbers and verb upgrades. MIT. |
+
+---
 
 ## FAQ: Agent Skills
 
