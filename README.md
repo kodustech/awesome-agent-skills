@@ -328,6 +328,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 | Skill | Description |
 |-----------|-----------|
+| [daedalus](https://github.com/AntreasAntoniou/daedalus-agent-skill) | Implement, refactor and debug through failing tests or falsifiable measurements, minimal edits, reviewed diffs, and explicit verification. Includes reader-focused naming, function contracts and Python CLI conventions. |
 | [grade-a-pipeline](https://github.com/AntreasAntoniou/grade-a-pipeline) | Organize multi-agent software delivery around dependency-aware plans, isolated worktrees, competing implementations, staged integration, and recorded test evidence. |
 | [plus-ultra](https://github.com/AntreasAntoniou/plus-ultra) | Separate independent proposals, arbitration, implementation, and fresh plan-blind verification; includes an optional Claude Code hook adapter, with Codex following the method by convention. |
 | [dyadmulti-pr-review](https://github.com/dyad-sh/dyad/tree/main/.claude/skills/multi-pr-review) | Multi-agent code review system that spawns three independent Claude sub-agents to review PR diffs. Each agent receives files in different randomized order to reduce ordering bias. Issues are classified as high/medium/low severity. Results are aggregated using consensus voting - only issues identified by 2+ agents where at least one rated it medium or higher severity are reported and posted as PR comments. Use when reviewing PRs, performing code review with multiple perspectives, or when consensus-based issue detection is needed. |
