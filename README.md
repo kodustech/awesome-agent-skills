@@ -70,6 +70,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [web-typography-skill](https://github.com/simongonzalezdc/web-typography-skill) | Web typography workflow for readable, accessible front-end text. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Build or redesign a web or mobile interface on a Better Design design system. Use when the user asks for an app, site, page, dashboard or component and wants it built on Better Design, or asks to choose, create or install a design system. |
 | [review-ui-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/review-ui-with-better-design) | Review an interface with Better Design's checks for accessibility, visual design, copy clarity and spacing. Use when the user asks to review, audit or check a screen, or after building one with Better Design. |
+| [instax-dutta/scroll-3d-world](https://github.com/instax-dutta/scroll-3d-world) | Build a scroll-scrubbed Three.js fly-through landing page: one continuous camera path through diorama scenes, no AI video and no seams. |
+| [instax-dutta/brand-vibes](https://github.com/instax-dutta/brand-vibes/tree/main/skills/brand-vibes) | Apply a company's design language to a site: 66 brand profiles or a DNA-extraction workflow turned into semantic tokens for Tailwind, CSS variables or shadcn. |
 
 ---
 
@@ -214,6 +216,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [fabbo-ai-generator](https://github.com/fabbo-ai/fabbo-ai-generator) | Generate AI videos and images on [fabbo.ai](https://fabbo.ai) by driving a real Playwright browser session. Supports text-to-video, image-to-video, text-to-image, reference-to-video, and image editing modes across Veo, Sora, Kling, Wan, Luma, Runway, Midjourney, and Nano Banana. |
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced X For You algorithm. Surfaces architectural trade-offs (multi-action vs single-score, candidate isolation vs joint, online vs offline batch) explicitly and emits runnable scaffolds for Strapi v5 (TypeScript), Go (with generics), or Python/FastAPI. MIT, independent reimplementation of the pattern. |
 | [vibe-creating-prompt](https://github.com/Alisa0808/vibe-creating-skill) | Bilingual (EN/中文) skill that rewrites a rough idea or an over-specified shot script into a model-ready text-to-video prompt. Use when generating prompts for text-to-video models such as Seedance 2.0, Kling, Veo, Hailuo, Wan, or Vidu. Judgment-first: declines UI demos, tutorials, and exact dialogue-sync. Single SKILL.md, MIT. |
+| [instax-dutta/finetune-llm](https://github.com/instax-dutta/finetune-llm/tree/main/skills/finetune-llm) | Fine-tune an LLM on the available GPU: probe hardware, choose the engine from measured VRAM peaks, smoke test, and verify the adapter with a neutral evaluator. |
+| [instax-dutta/vibe-abliteration](https://github.com/instax-dutta/vibe-abliteration) | Heretic abliteration workflow: read the refusals-versus-KL Pareto front, handle headless flags, and verify the export before publishing. |
 
 ---
 
@@ -300,6 +304,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [skillreaper](https://github.com/thousandflowers/skillreaper) | Reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static Go binary, Homebrew and npm. MIT. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Get YouTube transcripts, search videos and channels, list channel uploads, and extract playlists without Google API quotas or OAuth, usable in Claude, ChatGPT, OpenClaw, Hermes Agent and other MCP clients or from your own software via the TranscriptAPI REST API. MIT. |
 | [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | Fetch YouTube transcripts, search videos/channels, browse channels, and extract playlists via getyoutubetranscript.com's free-tier API, no Google Cloud API key or yt-dlp needed. Also available as an MCP server (API key or OAuth 2.1). MIT. |
+| [instax-dutta/dox-init](https://github.com/instax-dutta/dox-init) | Bootstrap a DOX AGENTS.md hierarchy: fetch the contract, scan the structure, and write nested contracts with purpose, ownership and child indexes. |
 
 ---
 
@@ -322,6 +327,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [octocode-pr-review](https://github.com/bgauryy/octocode-mcp/tree/main/packages/octocode-cli/skills/octocode-pr-review) | PR review for bugs, security & quality (requires PR URL) |
 | [fix-pr](https://github.com/agentfront/frontmcp/tree/main/.claude/skills/fix-pr) | Review a CodeRabbit PR comment and produce an action plan when prompted to analyze a review comment. |
 | [code-quality-analysis-with-pmat](https://github.com/paiml/paiml-mcp-agent-toolkit/tree/master/.claude/skills/pmat-quality) | Analyzes code quality, complexity, and technical debt using PMAT (Pragmatic AI Labs MCP Agent Toolkit). Use this skill when: - User mentions "code quality", "complexity", "technical debt", or "maintainability" - Reviewing code or conducting code review - Modifying or refactoring existing code files - Creating pull requests or preparing commits - Investigating performance or quality issues Supports 25+ languages including Rust, Python, TypeScript, JavaScript, Go, C++, Java, Ruby, PHP, Swift, and more. Provides cyclomatic complexity, cognitive complexity, maintainability index, dead code detection, and technical debt annotations (SATD: TODO, FIXME, HACK comments). |
+| [instax-dutta/google-code-review](https://github.com/instax-dutta/google-code-review/tree/main/skills/google-code-review) | Apply Google's published code review standard in reviewer and author modes: what to look for, severity labels, review speed, CL descriptions and pushback. |
 
 
 
