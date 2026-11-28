@@ -106,6 +106,7 @@ This allows agents to stay fast and focused, while still executing tasks with re
 | [terraform-module-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/02-devops-advanced/terraform-module-creator) | Terraform Module Creator - Auto-activating skill for DevOps Advanced. Triggers on: terraform module creator, terraform module creator Part of the DevOps Advanced skill category. |
 | [ssh-key-manager](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/ssh-key-manager) | Manage ssh key manager operations. Auto-activating skill for DevOps Basics. Triggers on: ssh key manager, ssh key manager Part of the DevOps Basics skill category. Use when working with ssh key manager functionality. Trigger with phrases like "ssh key manager", "ssh manager", "ssh". |
 | [readme-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/01-devops-basics/readme-generator) | Readme Generator - Auto-activating skill for DevOps Basics. Triggers on: readme generator, readme generator Part of the DevOps Basics skill category. |
+| [sp2p](https://github.com/zyno-io/sp2p/tree/main/plugins/sp2p/skills/sp2p) | Move files, folders, and streams between machines, containers, and Kubernetes pods with sp2p end-to-end encrypted P2P transfer. Beats scp and kubectl cp for large or flaky transfers. |
 
 ---
 
