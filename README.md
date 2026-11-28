@@ -303,6 +303,8 @@ This allows agents to stay fast and focused, while still executing tasks with re
 
 ---
 
+
+| [viralforge](https://github.com/fendouai/ViralForge/tree/main/skills/viralforge) | Analyze local video structure and export editable project and variant artifacts. |
 ### Code Review
 
 | Skill | Description |
